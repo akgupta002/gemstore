@@ -1,0 +1,21 @@
+{
+  "name": "gem_store",
+  "version": "1.0.1",
+  "description": "Learning Angular.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akgupta002/gemstore.git"
+  },
+  "keywords": [
+    "Angular",
+    "Learning",
+    "MVC"
+  ],
+  "author": "Amit Gupta",
+  "homepage": "https://github.com/akgupta002/gemstore#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
